@@ -1,0 +1,8 @@
+# Ignore all image files
+/App/Images/*.png
+/App/Images/*.jpg
+/App/Images/*.jpeg
+/App/Images/*.gif
+/App/Images/*.bmp
+/App/Images/*.svg
+# Add other image file extensions if needed

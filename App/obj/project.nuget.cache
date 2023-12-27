@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARcfI13l6oc6xn+5SLwESwDu15rScn7tzmba6iDJs/8JFFnQvVo/4dc9AE2DU84op9BB8TTMWlinZUS2YTmmig==",
+  "success": true,
+  "projectFilePath": "/Users/amitsalim/Dev Projects/Image to dice/App/App.csproj",
+  "expectedPackageFiles": [
+    "/Users/amitsalim/.nuget/packages/sixlabors.imagesharp/3.1.1/sixlabors.imagesharp.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
